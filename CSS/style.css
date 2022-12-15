@@ -1,0 +1,11 @@
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+#width, #height, #Color, #position, #T, #L,#R, button, #border, #Image, #transition{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: -80px;
+    border: solid;
+}
